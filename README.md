@@ -1,3 +1,2 @@
 # CameraApp
-The app is made for using the camera(hardware).
-own camera app.
+The app is leveraging the camera(hardware) component of phone.
